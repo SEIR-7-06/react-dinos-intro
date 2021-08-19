@@ -25,7 +25,7 @@ Write a new React component object that accepts the following properties:
 
 
 ----
-### Deliverable
+### Finished Product
 Your final solution should look like the following rendered post:
 
 ![Solution for Project](images/props_solution.png)
