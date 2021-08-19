@@ -16,13 +16,14 @@ Create a new react app called `dino-blog` using `create-react-app`.
 
 Inside of `./src` folder, create a new React Component file called `Post.js`.
 
-Write a new React component object that accepts the following properties:
+Write a new React component object that accepts the following **props**:
 
 - `postTitle`
 - `author`
 - `content`: should render one or more paragraphs of content
 - `comments`: should render one or more comments
 
+Pass those **props** to the component.
 
 ----
 ### Finished Product
