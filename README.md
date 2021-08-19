@@ -20,10 +20,12 @@ Write a new React component object that accepts the following **props**:
 
 - `postTitle`
 - `author`
-- `content`: should render one or more paragraphs of content (**hint:** an array will be passed in for this **prop**)
-- `comments`: should render one or more comments (**hint:** an array will be passed in for this **prop**)
+- `content`: should render one or more paragraphs of content
+- `comments`: should render one or more comments
 
 Pass those **props** to the component.
+
+**Hint:** an array will be passed in for the `content` and `comments` **props**. Within the `Post` component you'll loop through that array to display a list of paragraphs and a list of comments.
 
 ----
 ### Finished Product
